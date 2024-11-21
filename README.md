@@ -1,2 +1,3 @@
 # oversight-support
-How to contact me
+
+Any issues or reviews, please send me a email at: company.oversight@gmail.com
