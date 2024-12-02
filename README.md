@@ -1,7 +1,7 @@
 # Try my Apps
 
-* (Overquotes)[https://apps.apple.com/br/app/overquotes/id6738586960?l=en-GB]
-* (Oversheet)[https://apps.apple.com/br/app/oversheet/id6738495641?l=en-GB]
+* [Overquotes](https://apps.apple.com/br/app/overquotes/id6738586960?l=en-GB)
+* [Oversheet](https://apps.apple.com/br/app/oversheet/id6738495641?l=en-GB)
 
 # Privacy Policy
 
